@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "kestralib")(type "KiCad")(uri "${KIPRJMOD}/kestralib")(options "")(descr ""))
+  (lib (name "bachoologos")(type "KiCad")(uri "${KIPRJMOD}/bachoologos")(options "")(descr ""))
 )
