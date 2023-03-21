@@ -17,4 +17,4 @@ It's minimally designed (as intentioned) with ISO support and basic 60% layout o
 ![Supported layouts](https://i.imgur.com/UiYt5I8.png)
 
 ## Ordering
-The files necessary to produce the PCBs via JLCPCB are located in the production folder. 
+The files necessary to produce the PCBs via JLCPCB are located in the `production/JLCPCB` folder. 
